@@ -4,7 +4,7 @@
     <img src="http://file.qqtouxiang.com/qinglv/2020-07-21/1b00fe541d4533ecd0df3fa39d02ab2f.jpeg">
     <img src="https://img1.gamersky.com/upimg/pic/2020/09/16/202009161026064213_small.jpg">
     <img src="https://img1.gamersky.com/upimg/pic/2020/09/10/202009101215319136_small.jpg">
-
+    <img src="https://img1.gamersky.com/upimg/pic/2020/09/09/202009091500136340_small.jpg">
 
     </div>
 </template>
