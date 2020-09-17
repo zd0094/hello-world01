@@ -3,8 +3,7 @@
     <h2>演示</h2>
     <img src="http://file.qqtouxiang.com/qinglv/2020-07-21/1b00fe541d4533ecd0df3fa39d02ab2f.jpeg">
     <img src="https://img1.gamersky.com/upimg/pic/2019/01/02/201901021142595201_small.jpg">
-
-
+    <img src="https://images.ali213.net/picfile/pic/2020/07/14/927_2020071414446759.jpg">
     </div>
 </template>
 
